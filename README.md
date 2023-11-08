@@ -24,3 +24,4 @@
 1. Создаю репозиторий на GitHub с именем FinalWork1stBlock.git
 
 2. Блок-схема алгоритма:
+![Блок схема метода FilterData] (diagramFilterData.jpg)
