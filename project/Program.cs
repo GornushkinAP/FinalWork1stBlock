@@ -58,6 +58,7 @@ class Program
     static void OutputData(string[] filteredArray)
     {
         Console.WriteLine("Отфильтрованный массив:");
+        
         if (filteredArray.Length == 0)
         {
             Console.WriteLine("Пусто");
@@ -66,8 +67,9 @@ class Program
         {
             foreach (string str in filteredArray)
             {
-                Console.Write(str);
+                Console.WriteLine("[" + string.Join(", ", filteredArray) + "]");
             }
         }
+        Console.WriteLine();
     }
 }
