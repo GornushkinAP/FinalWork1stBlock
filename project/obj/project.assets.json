@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/run/media/aleksandr/терабайт/GB ЯП/Final Work 1stBlock/project/project.csproj",
+      "projectUniqueName": "/home/aleksandr/disk4/GB ЯП/Final Work 1stBlock/project/project.csproj",
       "projectName": "project",
-      "projectPath": "/run/media/aleksandr/терабайт/GB ЯП/Final Work 1stBlock/project/project.csproj",
+      "projectPath": "/home/aleksandr/disk4/GB ЯП/Final Work 1stBlock/project/project.csproj",
       "packagesPath": "/home/aleksandr/.nuget/packages/",
-      "outputPath": "/run/media/aleksandr/терабайт/GB ЯП/Final Work 1stBlock/project/obj/",
+      "outputPath": "/home/aleksandr/disk4/GB ЯП/Final Work 1stBlock/project/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/aleksandr/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.112/RuntimeIdentifierGraph.json"
       }
     }
   }
